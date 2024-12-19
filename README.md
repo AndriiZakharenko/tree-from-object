@@ -1,14 +1,28 @@
 # Tree from object
-Wrote a function `createTree(element, data)` that creates a nested list of `ul/li` from an object. 
-Use keys as list items. 
 
-`element` - is a DOM element
+### Description
 
-`data` - is a nested object
+- Wrote a function `createTree(element, data)` that creates a nested list of `ul/li` from an object
 
-![screenshot of the tree](example/object-tree.png)
+### Stack
 
+- HTML (BEM)
+- CSS
+- JS
 
-## Demo Links
+### Tools
 
-- [DEMO LINK](https://AndriiZakharenko.github.io/js_tree-from-object-DOM/)
+- ESlint
+- Prettier
+- Cypress
+- Mochawesome
+- Parcek
+
+### Demo links
+
+- [Demo](https://AndriiZakharenko.github.io/tree-from-object/)
+
+### Reference Image
+
+<img src="example/object-tree.png" alt="reference image" width="200px" />
+
