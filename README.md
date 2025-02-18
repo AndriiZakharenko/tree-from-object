@@ -1,7 +1,7 @@
 # Tree from object
 
 ## 🎮 About the Project
-In this project, I implemented a function that dynamically generates a nested list of `ul/li` from a given object, effectively turning the object into a tree structure.
+In this project, I implemented a function that generates a nested list of `ul/li` from a given object, effectively turning the object into a tree structure.
 
 ## 🚀 Tech Stack
 - **HTML** (BEM methodology for structured markup)
