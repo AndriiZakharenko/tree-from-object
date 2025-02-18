@@ -1,28 +1,26 @@
 # Tree from object
 
-### Description
+## 🎮 About the Project
+In this project, I implemented a function that dynamically generates a nested list of `ul/li` from a given object, effectively turning the object into a tree structure.
 
-- Wrote a function `createTree(element, data)` that creates a nested list of `ul/li` from an object
+## 🚀 Tech Stack
+- **HTML** (BEM methodology for structured markup)
+- **CSS** (Basic styling)
+- **JavaScript** (For tree generation and manipulation)
 
-### Stack
+## 🛠️ Tools & Dependencies
+- **ESLint** – Ensuring code quality  
+- **Prettier** – Code formatting for readability  
+- **Cypress** – End-to-end testing  
+- **Mochawesome** – Test reporting  
+- **Parcel** – Web application bundler  
 
-- HTML (BEM)
-- CSS
-- JS
+## 📌 Features
+✅ Created a function that converts an object into a nested `ul/li` list  
+✅ Handled recursive creation of tree structure based on object data  
 
-### Tools
+## 🌐 Demo
+🔗 [Live Demo](https://AndriiZakharenko.github.io/tree-from-object/)
 
-- ESlint
-- Prettier
-- Cypress
-- Mochawesome
-- Parcel
-
-### Demo links
-
-- [Demo](https://AndriiZakharenko.github.io/tree-from-object/)
-
-### Reference Image
-
-<img src="example/object-tree.png" alt="reference image" width="200px" />
-
+## 📜 License
+This project is forked from 💻 [Mate Academy](https://github.com/mate-academy/js_tree-from-object-DOM)
